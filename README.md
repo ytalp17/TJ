@@ -7,4 +7,4 @@ With this project I aim to update his work with a small tweak, you can see it as
 
 One can find not only the source code of the project but also the dataset that I created by scraping Trader Joe's website. The TraderJoes dataset contains both raw and geocoded addresses of every store Trader Joe's has in the United States. The data is scraped from [TraderJoe's site](https://locations.traderjoes.com/) using the [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) static web scraping module on Python. The code that is used for scraping is also shared in the 'Code' section. Moreover, The dataset has a GeoDataFrame format, with the point location of each store being a shapely object. Hence, it can be utilized better with [the Geopandas module.](https://geopandas.org/en/stable/).
 
-Feel free to utilize the dataset for your own purpose :v:
+Feel free to utilize the dataset for your own project :v:
