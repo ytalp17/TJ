@@ -1,7 +1,7 @@
 # On the Trail of Trader Joe's Warehouses
 
 
-Recently, I came across a 2015 project by Sam Burer via hackernews archive. In his project, Sam mainly tries to find the location of warehouses/distribution centers of a well-known grocery retailer called Trader Joe's by just using the location of its stores in the US. He does it very creatively by exploiting centroids of the clusters suggested by the K-means algorithm, a basic algorithm that is primarily used to tackle unsupervised, clustering, problems in the Machine learning domain.
+Recently, I came across a 2015 project by Sam Burer via Hacker News archive. In his project, Sam mainly tries to find the location of warehouses/distribution centers of a well-known grocery retailer called Trader Joe's by just using the location of its stores in the US. He does it very creatively by exploiting centroids of the clusters suggested by the K-means algorithm, a basic algorithm that is primarily used to tackle unsupervised, clustering, problems in the Machine learning domain.
 
 With this project I aim to update his work with a small tweak, you can see it as the 2022 version of [Sam's original post](https://sburer.github.io/2015/06/02/Trader-Joes.html). 
 
